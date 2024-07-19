@@ -12,10 +12,10 @@ You can click the Preview link to take a look at your changes.
 --->
 <html>
   <head>
-    <title>Contact me through</title>
-    <a href="https://www.instagram.com/pranish_da_vibe/">Instagram</a>
-    <a href="https://www.facebook.com/profile.php?id=100073168287592"></a>
-    <h3>gmail:@pranishkarki932@gmail.com</h3>
-    
-  </head>
+    <title>Contact me through</title></head><body>
+    <a href="https://www.instagram.com/pranish_da_vibe/">Instagram</a><br>
+    <a href="https://www.facebook.com/profile.php?id=100073168287592"></a><br>
+    <h3>gmail: @pranishkarki932@gmail.com</h3>
+    </body>
+  
 </html>
